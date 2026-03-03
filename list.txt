@@ -1,8 +1,5 @@
-crisps
-popcorns
-Bistcuits
-Chevda
-Chocolates
-Cookies
-Bubble gum
-
+Vegetables
+Cooking oil
+Onions
+Potatoes
+Tomatoes
